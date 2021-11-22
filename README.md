@@ -113,7 +113,6 @@ datetime,            epoch,     status
 
 ## track_curl_test_performance.sh
 This script periodically sends an HTTP GET to a specified destination and stores results to a CSV file. It is suited for tracking connectivity and performance.
-These HTTP destinations are reliable and used by SLB IT to track internet performance
   
 Status:
 - success (200) - The page was loaded correctly. 
